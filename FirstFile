@@ -1,2 +1,13 @@
-This is my First file in Repo
-Added new line
+Recovering the deleted file in Git Repo
+Open the Bash in Desktop and run the below commands
+
+   git checkout HEAD~1 Docker+for+Beginners-Mumshad+Mannambeth.pdf
+   pwd
+   cd ../
+   git checkout HEAD~1 Docker+for+Beginners-Mumshad+Mannambeth.pdf
+   git status
+   git add Docker+for+Beginners-Mumshad+Mannambeth.pdf
+   git status
+   git commit -m "Restored Mumshad File"
+   ls
+   git push
