@@ -11,3 +11,5 @@ Open the Bash in Desktop and run the below commands
    git commit -m "Restored Mumshad File"
    ls
    git push
+   
+   Reference : https://careerkarma.com/blog/git-restore-deleted-file/
